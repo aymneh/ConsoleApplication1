@@ -10,6 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            //this is my first program
+            Console.WriteLine("hello aws word");
+            Console.ReadKey();
         }
     }
 }
